@@ -1,0 +1,35 @@
+body{
+
+    margin:0px;
+    padding:0px;
+    background-image: url(../image/4d1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+}
+input:focus{
+    background-color: aqua;
+}
+button:hover{
+    background-color: aqua;
+}
+.form{
+    font-style: italic;
+    font-size: x-large;
+    width: 30%; 
+    margin: 0 auto;
+    border-color: rgb(155, 122, 122);
+    border-style: solid;
+    border-width: 5px;
+    background-image: url(../image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+.ho{
+    text-align:right;
+}
